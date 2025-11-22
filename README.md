@@ -1,6 +1,6 @@
 # TP 16 : Projet React avec GraphQL et Apollo Client
 
-## Ce projet est un **TP frontend** réalisé avec **React** et **Apollo Client** pour consommer un backend **GraphQL** développé avec **Spring Boot**.  
+Ce projet est un **TP frontend** réalisé avec **React** et **Apollo Client** pour consommer un backend **GraphQL** développé avec **Spring Boot**.  
 L’application permet de gérer des **comptes bancaires** et leurs **transactions** (dépôts / retraits).
 
 ## Technologies utilisées
